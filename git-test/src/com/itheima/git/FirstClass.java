@@ -15,4 +15,10 @@ public class FirstClass {
         System.out.println("Hello Git Project！");
         System.out.println("Hello Git Project！");
     }
+
+    public void test() {
+        for (int i = 0; i < 7; i++) {
+            System.out.println(i);
+        }
+    }
 }
